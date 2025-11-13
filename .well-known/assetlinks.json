@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",          
+      "package_name": "com.riz1.rnapp02", 
+      "sha256_cert_fingerprints": [
+        "3C:A6:94:34:8F:FA:BB:07:47:9C:12:5D:8D:79:F4:CB:69:F3:2E:DB:DE:31:22:9B:EA:A7:46:19:9C:89:C7:03"
+      ]
+    }
+  }
+]
