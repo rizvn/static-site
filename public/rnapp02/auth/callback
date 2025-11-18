@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Redirecting...</title>
+    <script>
+      window.onload = function() {
+         window.ReactNativeWebView.postMessage('close');
+
+         const fullUrl = window.location.href + "&app=rnapp02";
+         window.location.href = fullUrl
+      };
+    </script>
+  </head>
+  <body>
+    <p>Redirecting to app...</p>
+  </body>
+</html>
