@@ -2,11 +2,9 @@
 <html>
   <head>
     <title>Redirecting...</title>
-    <script>
-      <a href="#" onclick="window.location.reload();">Goto App</a>
-    </script>
   </head>
   <body>
     <p>Redirecting to app...</p>
+     <a href="#" onclick="window.location.reload();">Goto App</a>
   </body>
 </html>
