@@ -5,6 +5,6 @@
   </head>
   <body>
     <p>Redirecting to app...</p>
-     <a href="#" onclick="window.location.reload();">Goto App</a>
+     <a href="rnapp02://" >Navigate to App</a>
   </body>
 </html>
